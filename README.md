@@ -1,6 +1,6 @@
-Pós Graduação PUC/MG Curso:
+Pós Graduação PUC/MG
 
-Ciência de Dados e Big Data
+Curso: Ciência de Dados e Big Data
 
 Trabalho de Conclusão de Curso - TCC
 
